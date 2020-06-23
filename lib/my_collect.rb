@@ -1,3 +1,3 @@
 def my_collect(array)
-  my_collect.arrau { |name|  }
+  my_collect.arrau { |name| name.upcase }
 end
